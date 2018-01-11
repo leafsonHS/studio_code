@@ -1,0 +1,13 @@
+﻿<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	  xmlns:ns="http://mobwin.android.com/apk/res/com.zhuamob.sample"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/whole_bg"
+        android:id="@+id/HomeActivity"
+    tools:context=".HomeActivity" >
+
+
+  
+     
+</RelativeLayout>
